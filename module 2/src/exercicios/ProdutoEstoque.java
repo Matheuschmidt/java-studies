@@ -1,3 +1,5 @@
+package exercicios;
+
 public class ProdutoEstoque {
     String nome;
     double preco;

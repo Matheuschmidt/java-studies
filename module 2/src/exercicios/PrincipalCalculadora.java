@@ -1,3 +1,5 @@
+package exercicios;
+
 public class PrincipalCalculadora {
     public static void main(String[] args) {
         Calculadora calculadora = new Calculadora();

@@ -1,3 +1,5 @@
+package exercicios;
+
 public class Calculadora {
 
     int dobraNumero(int numero){
