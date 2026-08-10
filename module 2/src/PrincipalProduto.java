@@ -1,4 +1,4 @@
-public class ParaExercitar {
+public class PrincipalProduto {
     public static void main(String[] args) {
         ProdutoEstoque mercadoria = new ProdutoEstoque();
         mercadoria.nome = "Teclado";

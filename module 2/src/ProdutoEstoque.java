@@ -1,8 +1,6 @@
 public class ProdutoEstoque {
     String nome;
     double preco;
-    int adicionaEstoque;
-    int removeEstoque;
     int totalEstoque;
 
     void exibeFicha(){
