@@ -1,6 +1,6 @@
 package exerciciosDeInterfaces.Modelos;
 
-import exerciciosDeInterfaces.calculos.Tabuada;
+import exerciciosDeInterfaces.interfaces.Tabuada;
 
 public class TabuadaMultiplicacao implements Tabuada {
 

@@ -1,6 +1,6 @@
 package exerciciosDeInterfaces.Modelos;
 
-import exerciciosDeInterfaces.calculos.CalculoGeometrico;
+import exerciciosDeInterfaces.interfaces.CalculoGeometrico;
 
 public class CalculadoraSalaRetangular implements CalculoGeometrico {
 

@@ -1,6 +1,6 @@
 package exerciciosDeInterfaces.Modelos;
 
-import exerciciosDeInterfaces.calculos.ConversaoFinanceira;
+import exerciciosDeInterfaces.interfaces.ConversaoFinanceira;
 
 public class ConversorMoeda implements ConversaoFinanceira {
     @Override

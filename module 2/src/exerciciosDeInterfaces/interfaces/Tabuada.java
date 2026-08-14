@@ -1,4 +1,4 @@
-package exerciciosDeInterfaces.calculos;
+package exerciciosDeInterfaces.interfaces;
 
 public interface Tabuada {
 
