@@ -18,5 +18,12 @@ public class mainProduto {
         System.out.println(listaDeProdutos.size());
         System.out.println(listaDeProdutos.get(0).getNome());
         System.out.println(listaDeProdutos);
+
+        double somaPrecos = 0;
+        for (Produto produto4 : listaDeProdutos){
+            somaPrecos += produto4.getPreco();
+        }
+        double precoMedio = somaPrecos / listaDeProdutos.size();
+        System.out.println("A media é: " + precoMedio);
     }
 }

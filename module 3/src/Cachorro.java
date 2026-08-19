@@ -1,4 +1,4 @@
-package PACKAGE_NAME;
+public class Cachorro extends Animal{
 
-public class Cachorro {
+
 }
