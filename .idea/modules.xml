@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/desafio-logica/desafio-logica.iml" filepath="$PROJECT_DIR$/desafio-logica/desafio-logica.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/java-studies.iml" filepath="$PROJECT_DIR$/.idea/java-studies.iml" />
       <module fileurl="file://$PROJECT_DIR$/module 1/module 1.iml" filepath="$PROJECT_DIR$/module 1/module 1.iml" />
       <module fileurl="file://$PROJECT_DIR$/module 2/module 2.iml" filepath="$PROJECT_DIR$/module 2/module 2.iml" />
