@@ -28,6 +28,5 @@ public class Desafio6 {
         System.out.println("Desconto: " + porcentagemDesconto * 100 + "%");
         System.out.println("Valor do desconto: R$" + valorDesconto);
         System.out.println("Valor final: R$" + valorFinal);
-        }
     }
 }
